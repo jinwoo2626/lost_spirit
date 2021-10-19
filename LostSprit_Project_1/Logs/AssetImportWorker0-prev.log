@@ -1,0 +1,1401 @@
+Using pre-set license
+Built from '2020.3/release' branch; Version is '2020.3.2f1 (8fd9074bf66c) revision 9427207'; Using compiler version '192528614'; Build Type 'Release'
+OS: 'Windows 10 Home; OS build 19043.1288; Version 2009; 64bit' Language: 'ko' Physical Memory: 16332 MB
+BatchMode: 1, IsHumanControllingUs: 0, StartBugReporterOnCrash: 0, Is64bit: 1, IsPro: 0
+
+ COMMAND LINE ARGUMENTS:
+C:\Program Files\Unity\Editor\Unity.exe
+-adb2
+-batchMode
+-noUpm
+-name
+AssetImportWorker0
+-projectPath
+C:/Users/jinwo/Documents/GitHub/LostSprit_Project_1
+-logFile
+Logs/AssetImportWorker0.log
+-srvPort
+57099
+Successfully changed project path to: C:/Users/jinwo/Documents/GitHub/LostSprit_Project_1
+C:/Users/jinwo/Documents/GitHub/LostSprit_Project_1
+Using Asset Import Pipeline V2.
+Refreshing native plugins compatible for Editor in 44.73 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Initialize engine version: 2020.3.2f1 (8fd9074bf66c)
+[Subsystems] Discovering subsystems at path C:/Program Files/Unity/Editor/Data/Resources/UnitySubsystems
+[Subsystems] Discovering subsystems at path C:/Users/jinwo/Documents/GitHub/LostSprit_Project_1/Assets
+GfxDevice: creating device client; threaded=0
+Direct3D:
+    Version:  Direct3D 11.0 [level 11.1]
+    Renderer: NVIDIA GeForce RTX 2060 (ID=0x1f08)
+    Vendor:   
+    VRAM:     5980 MB
+    Driver:   27.21.14.5671
+Initialize mono
+Mono path[0] = 'C:/Program Files/Unity/Editor/Data/Managed'
+Mono path[1] = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/lib/mono/unityjit'
+Mono config path = 'C:/Program Files/Unity/Editor/Data/MonoBleedingEdge/etc'
+Using monoOptions --debugger-agent=transport=dt_socket,embedding=1,server=y,suspend=n,address=127.0.0.1:56516
+Begin MonoManager ReloadAssembly
+Registering precompiled unity dll's ...
+Register platform support module: C:/Program Files/Unity/Editor/Data/PlaybackEngines/WindowsStandaloneSupport/UnityEditor.WindowsStandalone.Extensions.dll
+Registered in 0.007641 seconds.
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 39.22 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.080 seconds
+Platform modules already initialized, skipping
+Registering precompiled user dll's ...
+Registered in 0.012158 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.011 seconds
+Platform modules already initialized, skipping
+========================================================================
+Worker process is ready to serve import requests
+Launched and connected shader compiler UnityShaderCompiler.exe after 0.06 seconds
+Refreshing native plugins compatible for Editor in 0.49 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1464 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 142.6 MB.
+System memory in use after: 142.7 MB.
+
+Unloading 18 unused Assets to reduce memory usage. Loaded Objects now: 1903.
+Total: 2.631000 ms (FindLiveObjects: 0.196600 ms CreateObjectMapping: 0.076800 ms MarkObjects: 2.273000 ms  DeleteObjects: 0.083400 ms)
+
+========================================================================
+Received Import Request.
+  path: Assets/EXPrefabs/Single Cube 5.prefab
+  artifactKey: Guid(43fc8136a4d807c4795f266fdafbeca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Single Cube 5.prefab using Guid(43fc8136a4d807c4795f266fdafbeca5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a43838754e2bc9d5dfd28236d388fd66') in 0.374917 seconds
+  Import took 0.378491 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000336 seconds.
+  path: Assets/EXPrefabs/Key.prefab
+  artifactKey: Guid(6a0690b64a08bc14189d917fb632850b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Key.prefab using Guid(6a0690b64a08bc14189d917fb632850b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b732b81970ffa6b66bd7840edaab95c9') in 0.091014 seconds
+  Import took 0.094029 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/EXPrefabs
+  artifactKey: Guid(2592371400e97d24e9783bfe319db007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs using Guid(2592371400e97d24e9783bfe319db007) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '15163b0bcc1314e1195a803cb4a8c7a5') in 0.003858 seconds
+  Import took 0.006226 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 13.953014 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs
+  artifactKey: Guid(325d3c5532164bb4aa5dd8f24fa1df7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs using Guid(325d3c5532164bb4aa5dd8f24fa1df7c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6bdb8c358579b16f4bed83e6c8e6675') in 0.004805 seconds
+  Import took 0.007696 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.068008 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Door.prefab
+  artifactKey: Guid(9175d08a6bdddeb48afa15d1b714d918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Door.prefab using Guid(9175d08a6bdddeb48afa15d1b714d918) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e6221d27f9229201ae88cc0cb81203f0') in 0.033729 seconds
+  Import took 0.036654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000316 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Lamp_01.prefab
+  artifactKey: Guid(7c3ceb5b9a32b7a4a8d42d30223f3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Lamp_01.prefab using Guid(7c3ceb5b9a32b7a4a8d42d30223f3c9b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5deb1ab148c8c792cbcf1f5051c4a384') in 0.015899 seconds
+  Import took 0.018789 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000309 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Lamp_02.prefab
+  artifactKey: Guid(7970c12d6b19a504fbc82353b8a43abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Lamp_02.prefab using Guid(7970c12d6b19a504fbc82353b8a43abe) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '80d85f8ab6a61b8a9cf1306f6df63def') in 0.015090 seconds
+  Import took 0.017990 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000276 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Pillar.prefab
+  artifactKey: Guid(7c7baabdbc078cb4098d5880fc72c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Pillar.prefab using Guid(7c7baabdbc078cb4098d5880fc72c0f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '5b481a04d270bfe524cb4f0c671b6d0f') in 0.014381 seconds
+  Import took 0.017396 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000253 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Floor.prefab
+  artifactKey: Guid(e348e7143b6247b488737e4be26fb038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Floor.prefab using Guid(e348e7143b6247b488737e4be26fb038) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1d7a92e5507f57acca7df320184ea8cd') in 0.014238 seconds
+  Import took 0.017146 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000322 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall.prefab
+  artifactKey: Guid(3ad7a1cffb2556547a8b7e60fd320431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall.prefab using Guid(3ad7a1cffb2556547a8b7e60fd320431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0517061a06e2ae9a47251bd97d9d160e') in 0.013610 seconds
+  Import took 0.016282 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000250 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall_Entrance.prefab
+  artifactKey: Guid(49a5f24a081cbbc44bd23d76c2869723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall_Entrance.prefab using Guid(49a5f24a081cbbc44bd23d76c2869723) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '84c3ddd68a7fa82cdc556861c29d5a13') in 0.017131 seconds
+  Import took 0.020406 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000320 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall.prefab
+  artifactKey: Guid(3ad7a1cffb2556547a8b7e60fd320431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Prefabs/Wall.prefab using Guid(3ad7a1cffb2556547a8b7e60fd320431) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0517061a06e2ae9a47251bd97d9d160e') in 0.012708 seconds
+  Import took 0.015359 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.851005 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Door.fbx
+  artifactKey: Guid(1fed90e8722c1334d9b51e0b56f26e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Door.fbx using Guid(1fed90e8722c1334d9b51e0b56f26e4e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd84f9ed3d03798c296142df6571de330') in 0.194755 seconds
+  Import took 0.197980 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_02.fbx
+  artifactKey: Guid(495bc5d65ef7c7a47b914d4dd69f0edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_02.fbx using Guid(495bc5d65ef7c7a47b914d4dd69f0edf) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1b549dc806d04c143ca4eac5a4415d6b') in 0.013860 seconds
+  Import took 0.016674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000352 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Pillar.fbx
+  artifactKey: Guid(b520dd2e830b53248a9a07d2d9f3f3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Pillar.fbx using Guid(b520dd2e830b53248a9a07d2d9f3f3dd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b08101f55a5aa5f78fce26dc9af5f6c8') in 0.027473 seconds
+  Import took 0.030271 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000221 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Floor.fbx
+  artifactKey: Guid(b31c62c35ced11c4383176ecffe930c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Floor.fbx using Guid(b31c62c35ced11c4383176ecffe930c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75a9eb562fdd90ccae27277634c64087') in 0.011784 seconds
+  Import took 0.014536 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000385 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Wall.fbx
+  artifactKey: Guid(9c33f225c6ee98243a57390a7235bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Wall.fbx using Guid(9c33f225c6ee98243a57390a7235bd50) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ca35b09395575fb3b10460b00ce88c99') in 0.013951 seconds
+  Import took 0.016922 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Wall_Entrance.fbx
+  artifactKey: Guid(ce8cc834ba277844da67143cfc370fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Wall_Entrance.fbx using Guid(ce8cc834ba277844da67143cfc370fa8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '40a18d8c56c03ff70147896ca878351c') in 0.013493 seconds
+  Import took 0.016677 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000248 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_01.fbx
+  artifactKey: Guid(80f5a41c215b19a4096e40d8852a7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_01.fbx using Guid(80f5a41c215b19a4096e40d8852a7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e5b4e589ada1f33900412f180cd6e9') in 0.012349 seconds
+  Import took 0.015274 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.002141 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_01.fbx
+  artifactKey: Guid(80f5a41c215b19a4096e40d8852a7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Originals/Lamp_01.fbx using Guid(80f5a41c215b19a4096e40d8852a7562) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c7e5b4e589ada1f33900412f180cd6e9') in 0.013072 seconds
+  Import took 0.015825 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.933302 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Materials/Dungeon_Mat_01.mat
+  artifactKey: Guid(770d874acb2e37f4dbb0943d5ef8a660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Materials/Dungeon_Mat_01.mat using Guid(770d874acb2e37f4dbb0943d5ef8a660) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'cc8435078f64e770f3d2d3bf6d8db981') in 0.048214 seconds
+  Import took 0.051209 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000243 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Materials/Dungeon_Mat_02.mat
+  artifactKey: Guid(2e701f9d6b8aa304c93f2af59c1ee5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Materials/Dungeon_Mat_02.mat using Guid(2e701f9d6b8aa304c93f2af59c1ee5d9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '730899445b233ff9005409c142480656') in 0.013762 seconds
+  Import took 0.016452 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.552704 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Demo/Demo_Scene
+  artifactKey: Guid(71c5b9e24fd2f654b8cf958e198a0df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Demo/Demo_Scene using Guid(71c5b9e24fd2f654b8cf958e198a0df6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bd12774ebc37032fc35ad1d8c97d4970') in 0.004188 seconds
+  Import took 0.007208 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 3.623893 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_01_Diffuse.tga
+  artifactKey: Guid(580463794dc1de446a571eb88be93bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_01_Diffuse.tga using Guid(580463794dc1de446a571eb88be93bff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd306e94045539d5dbc036d1967199800') in 0.033021 seconds
+  Import took 0.035950 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000328 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Diffuse.tga
+  artifactKey: Guid(2ad5769c41feb7749a077e020ed56acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Diffuse.tga using Guid(2ad5769c41feb7749a077e020ed56acb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8c4dde384d4810dc751c2ae565b1077b') in 0.010392 seconds
+  Import took 0.013654 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000411 seconds.
+  path: Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Emission.tga
+  artifactKey: Guid(1084372875829164882c05b7f7f0714f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/StylizedHandPaintedDungeon(Free)/Textures/Dungeon_02_Emission.tga using Guid(1084372875829164882c05b7f7f0714f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f76283292e8a71679d99606ccde0e79a') in 0.009797 seconds
+  Import took 0.012716 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 19.416201 seconds.
+  path: Assets/TextMesh Pro/Fonts/LiberationSans.ttf
+  artifactKey: Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Fonts/LiberationSans.ttf using Guid(e3265ab4bf004d28a9537516768c1c75) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '266ce3162b5b72ce4469f85fceb59ec1') in 0.052543 seconds
+  Import took 0.056509 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.652790 seconds.
+  path: Assets/TextMesh Pro/Resources/TMP Settings.asset
+  artifactKey: Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Resources/TMP Settings.asset using Guid(3f5b5dff67a942289a9defa416b206f3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a8a0d83d877d2405b627253d1f609fe3') in 0.047722 seconds
+  Import took 0.050810 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.358044 seconds.
+  path: Assets/TextMesh Pro/Sprites/EmojiOne.png
+  artifactKey: Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro/Sprites/EmojiOne.png using Guid(dffef66376be4fa480fb02b19edbe903) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6b663b8c3a897f2d94623be3c7a746fe') in 0.029291 seconds
+  Import took 0.032408 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.079078 seconds.
+  path: Assets/Textures/LargeWater_foam_tiled_BW.png
+  artifactKey: Guid(7479395504017d34797e9e1f01416773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/LargeWater_foam_tiled_BW.png using Guid(7479395504017d34797e9e1f01416773) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd8fc13fc6bb4d41383cabbcaa99f368d') in 0.023546 seconds
+  Import took 0.026326 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000300 seconds.
+  path: Assets/Textures/LargeWater_waves normals.png
+  artifactKey: Guid(9289bcf7d8bd0de4ba3c1936142bd05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/LargeWater_waves normals.png using Guid(9289bcf7d8bd0de4ba3c1936142bd05a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2ec390f18e38625042d868d3bdd19dda') in 0.048778 seconds
+  Import took 0.052611 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000270 seconds.
+  path: Assets/Textures/LargeWater_perlin_wavy normals.exr
+  artifactKey: Guid(752cd2818650c7b499cfba5faa8dec03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/LargeWater_perlin_wavy normals.exr using Guid(752cd2818650c7b499cfba5faa8dec03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '41768c42071831a5827924ef3e17eac2') in 0.019409 seconds
+  Import took 0.022198 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Textures/LargeWater_waves height.png
+  artifactKey: Guid(36bcc8a2ec0ecfd4594f8d7df70819d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/LargeWater_waves height.png using Guid(36bcc8a2ec0ecfd4594f8d7df70819d8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'dd21b98520ca9dcd173299b32e8e0145') in 0.038726 seconds
+  Import took 0.042193 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Textures/LargeWater_worley normals.png
+  artifactKey: Guid(c2836cd591d01d34b82b8a48db35245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Textures/LargeWater_worley normals.png using Guid(c2836cd591d01d34b82b8a48db35245f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2495cfa47faa1f19560528220a598a1c') in 0.012793 seconds
+  Import took 0.015729 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2.996383 seconds.
+  path: Assets/Tiny Fantasy Icons/All_Icons_512.psd
+  artifactKey: Guid(fd534221758505a408dba0f0c51d3434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Tiny Fantasy Icons/All_Icons_512.psd using Guid(fd534221758505a408dba0f0c51d3434) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a245ae0faea0d4a8c08d390425462b6f') in 0.019086 seconds
+  Import took 0.022067 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.844953 seconds.
+  path: Assets/QuarterView 3D Action BE5/App Icon.png
+  artifactKey: Guid(8daddb70a45a9d745bd298fad8593ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/App Icon.png using Guid(8daddb70a45a9d745bd298fad8593ea3) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ba5c93bd88e82b1d5384f915d9e8bb39') in 0.024510 seconds
+  Import took 0.027353 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/QuarterView 3D Action BE5/Readme.asset
+  artifactKey: Guid(40de9ed37630dc5418b57960bb7be849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/QuarterView 3D Action BE5/Readme.asset using Guid(40de9ed37630dc5418b57960bb7be849) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0c2318bd1c67a931835ea62aa8677f') in 0.007064 seconds
+  Import took 0.009714 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 5.993679 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab
+  artifactKey: Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterBlock_50m.prefab using Guid(7097ba7ba649e1f41bba232312bdcbd8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0fc373bc4fa363726fcd3b9840a52b82') in 0.025158 seconds
+  Import took 0.028174 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000242 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterReflectionCamera.prefab
+  artifactKey: Guid(838c0bef810bfe94d8e33947c3cba7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Prefabs/WaterReflectionCamera.prefab using Guid(838c0bef810bfe94d8e33947c3cba7c6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ccb5297d935d6e391ffed40fa7eb62e7') in 0.007677 seconds
+  Import took 0.010245 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.738131 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat
+  artifactKey: Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_01.mat using Guid(141d9d6ca43b6c843965491604c6deff) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '75adcadab8ac36d0695bf2e90b4bd636') in 0.011711 seconds
+  Import took 0.014252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000264 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif
+  artifactKey: Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_single.tif using Guid(11154d936b05e66498f68fa178c5cfbb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6a8e86f4bce18838508b3c0328f97a96') in 0.020306 seconds
+  Import took 0.023141 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture
+  artifactKey: Guid(4ae8ae7350b67b44785d874c413a2e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterReflection.renderTexture using Guid(4ae8ae7350b67b44785d874c413a2e03) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e1d98cb5f1a770447dcfa25349bccdd7') in 0.016914 seconds
+  Import took 0.019808 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000280 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif
+  artifactKey: Guid(2ed3d41b7c655bf4daa77f71b994f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterSurface_atlas.tif using Guid(2ed3d41b7c655bf4daa77f71b994f6ed) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a26d1154131578660399a36ea6b851a9') in 0.013403 seconds
+  Import took 0.016082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000249 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat
+  artifactKey: Guid(8759ec410a6774b4ea13ae32dc2b8d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_02.mat using Guid(8759ec410a6774b4ea13ae32dc2b8d2e) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e46b83c086ca0057590c7e9140bd583c') in 0.010377 seconds
+  Import took 0.013055 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000268 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat
+  artifactKey: Guid(19ac4fcfcf42b4344a6c7d97a5cd61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/Water_mat_03.mat using Guid(19ac4fcfcf42b4344a6c7d97a5cd61fc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '973bfd67ffe4eb5b1d388169687942b3') in 0.097975 seconds
+  Import took 0.102372 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000403 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh
+  artifactKey: Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh using Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce74cd944325e78df703740b1947676e') in 0.017168 seconds
+  Import took 0.020337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000773 seconds.
+  path: Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh
+  artifactKey: Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/IgniteCoders/Simple Water Shader/Resources/WaterBlock_50m.mesh using Guid(3da23cdf512599b42881988944f3918c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ce74cd944325e78df703740b1947676e') in 0.011096 seconds
+  Import took 0.013537 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 8.817232 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs
+  artifactKey: Guid(7581e6541e3b53e4caf666a8a1a1aac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs using Guid(7581e6541e3b53e4caf666a8a1a1aac0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8329e0346b964a48fb13dda13dfaf2b7') in 0.003895 seconds
+  Import took 0.006749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 1.764646 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs
+  artifactKey: Guid(aae3ea79c85382146ab2eeb36a82d9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs using Guid(aae3ea79c85382146ab2eeb36a82d9c9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8b0e7dce1110c1aa7d160f0d30fba6ea') in 0.004142 seconds
+  Import took 0.008931 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.130255 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 1 One Sided.prefab
+  artifactKey: Guid(fae285bcf492f764789a1566f4bdb656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 1 One Sided.prefab using Guid(fae285bcf492f764789a1566f4bdb656) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e66e360a8854e1d5f4e2ecdfecf25918') in 0.018832 seconds
+  Import took 0.022156 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 5 One Sided.prefab
+  artifactKey: Guid(bfc141ace33fc494b9fb7ab868e4fc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 5 One Sided.prefab using Guid(bfc141ace33fc494b9fb7ab868e4fc07) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'da7114905a58384601ced275b446900a') in 0.022682 seconds
+  Import took 0.025888 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000181 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 15 One Sided.prefab
+  artifactKey: Guid(ccd6cf5703c895840857d4413ed3c5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 15 One Sided.prefab using Guid(ccd6cf5703c895840857d4413ed3c5b7) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3de154a52589cbaa763f629f109f2cee') in 0.020500 seconds
+  Import took 0.024328 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000258 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 10.prefab
+  artifactKey: Guid(f062fa5660b145642af10dc6ca5cd57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 10.prefab using Guid(f062fa5660b145642af10dc6ca5cd57c) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'be8051aafd802ff8cbd22222d36f2d36') in 0.018867 seconds
+  Import took 0.022155 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000199 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 6 One Sided.prefab
+  artifactKey: Guid(26325b266903d2f43b60569e11a4f9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 6 One Sided.prefab using Guid(26325b266903d2f43b60569e11a4f9d2) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '39d8764181e6715de536ac2276b3a178') in 0.019162 seconds
+  Import took 0.022236 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 5.prefab
+  artifactKey: Guid(ce95550abf8148e449f64c4ec0b439e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 5.prefab using Guid(ce95550abf8148e449f64c4ec0b439e9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '8f9d25ad0b9638490389c6ad70762ff8') in 0.019363 seconds
+  Import took 0.022904 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000208 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 7.prefab
+  artifactKey: Guid(5aba6795bee8c844f8b9fcc7a5c32864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 7.prefab using Guid(5aba6795bee8c844f8b9fcc7a5c32864) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '899de973017ca9ebbfc3b56ea825a0c8') in 0.018772 seconds
+  Import took 0.022184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000260 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 9.prefab
+  artifactKey: Guid(aada8c74f09ef414ba53dc15bd6cb09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 9.prefab using Guid(aada8c74f09ef414ba53dc15bd6cb09b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '02da94af01eec4997e93b6b415e955a1') in 0.019424 seconds
+  Import took 0.022749 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 19 One Sided.prefab
+  artifactKey: Guid(00e4af8e1ccd27b439346bbace84f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 19 One Sided.prefab using Guid(00e4af8e1ccd27b439346bbace84f608) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4917c7c2763ba3f4b5805c290d501008') in 0.019294 seconds
+  Import took 0.022235 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 7 One Sided.prefab
+  artifactKey: Guid(13fd31d337a8feb4d8e06287c8045c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 7 One Sided.prefab using Guid(13fd31d337a8feb4d8e06287c8045c30) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6481453115900183f5732aba25783caf') in 0.018780 seconds
+  Import took 0.021797 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000262 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 16 One Sided.prefab
+  artifactKey: Guid(1407122fbc99a8545b0559ba5fd4f6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 16 One Sided.prefab using Guid(1407122fbc99a8545b0559ba5fd4f6b4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ee30413412b273aa222ba980fd2109f') in 0.019582 seconds
+  Import took 0.022737 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000232 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 10 One Sided.prefab
+  artifactKey: Guid(a3f7345b2e0c9134eaed3a1f0f76f4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 10 One Sided.prefab using Guid(a3f7345b2e0c9134eaed3a1f0f76f4ab) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'bf95dc43706b406a694ed4f721b50a5c') in 0.019088 seconds
+  Import took 0.022231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000228 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 13 One Sided.prefab
+  artifactKey: Guid(38c11ea8c04957343bf85e227825f955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 13 One Sided.prefab using Guid(38c11ea8c04957343bf85e227825f955) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f9001a18587be58e4287b4275e36915d') in 0.019035 seconds
+  Import took 0.022051 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000371 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 14.prefab
+  artifactKey: Guid(ea77e473bce21f44e9faafc8d0d09596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 14.prefab using Guid(ea77e473bce21f44e9faafc8d0d09596) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '26b3a962aa7034faa7aac70b8fbdfe0d') in 0.019644 seconds
+  Import took 0.022745 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000226 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 8.prefab
+  artifactKey: Guid(5ae27445b16dccf429b91f6cabc5646b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 8.prefab using Guid(5ae27445b16dccf429b91f6cabc5646b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1ea523a6b8e4b803083dc314c63aba23') in 0.019076 seconds
+  Import took 0.022012 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000267 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 2 One Sided.prefab
+  artifactKey: Guid(0a5412f3b03c8c54d9dc24276b69c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 2 One Sided.prefab using Guid(0a5412f3b03c8c54d9dc24276b69c2d1) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '73b7c883c9b53ed98a6c29d595ec922e') in 0.020001 seconds
+  Import took 0.023348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000306 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 9  One Sided.prefab
+  artifactKey: Guid(867ca91a138df104490a3d3cb491a153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 9  One Sided.prefab using Guid(867ca91a138df104490a3d3cb491a153) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '629c26ea59c639aa78ba27fee1b5f4b4') in 0.018813 seconds
+  Import took 0.022082 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000247 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 3.prefab
+  artifactKey: Guid(0f75f4e957deb4b4e8a99d44440a8c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 3.prefab using Guid(0f75f4e957deb4b4e8a99d44440a8c70) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7fbc959ab77b2f019370b3ed864e56b1') in 0.020480 seconds
+  Import took 0.023355 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000184 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 15.prefab
+  artifactKey: Guid(f86db3ab309183749a24854be92c1e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 15.prefab using Guid(f86db3ab309183749a24854be92c1e82) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0407473c8f8151b5d6a7cc89eebca560') in 0.020989 seconds
+  Import took 0.024231 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 20 One Sided.prefab
+  artifactKey: Guid(7464a7afeb57b4d489194ea2d9829054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 20 One Sided.prefab using Guid(7464a7afeb57b4d489194ea2d9829054) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '2aaafd745f7c6e6d017b350aca97cfa3') in 0.020149 seconds
+  Import took 0.023181 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000282 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 17.prefab
+  artifactKey: Guid(a8668883b2309764292c91fa91bcc4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 17.prefab using Guid(a8668883b2309764292c91fa91bcc4c8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b750b57f0419f831180b2945606c0057') in 0.019468 seconds
+  Import took 0.022561 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000271 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 11.prefab
+  artifactKey: Guid(dc277a61a79ed394bbd9834c412c8c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 11.prefab using Guid(dc277a61a79ed394bbd9834c412c8c21) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '70408c5397264ed43ec07830fff870ea') in 0.020029 seconds
+  Import took 0.023246 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000239 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 8 One Sided.prefab
+  artifactKey: Guid(31309cfd6d9b2d842984276a74168d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 8 One Sided.prefab using Guid(31309cfd6d9b2d842984276a74168d68) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '6e574a852abbba3f525e11cfa8d2fa9d') in 0.018221 seconds
+  Import took 0.021542 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000214 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 16.prefab
+  artifactKey: Guid(eccc62ff48180704e820d50dc0618dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 16.prefab using Guid(eccc62ff48180704e820d50dc0618dfc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1e2bb688979256dd75ecb1123ad1a0be') in 0.018828 seconds
+  Import took 0.021913 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000188 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 17 One Sided.prefab
+  artifactKey: Guid(5eb3f967eae48934b98ff6d431981e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 17 One Sided.prefab using Guid(5eb3f967eae48934b98ff6d431981e5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '3f2c68549aadf1753bad832652d6bbb1') in 0.018890 seconds
+  Import took 0.021644 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 3 One Sided.prefab
+  artifactKey: Guid(fb6fa8b35978ae347908cb012fda38f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 3 One Sided.prefab using Guid(fb6fa8b35978ae347908cb012fda38f5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '246c4069011c1ca0c4227fc0dd33f33f') in 0.019181 seconds
+  Import took 0.022252 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000213 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 11 One Sided.prefab
+  artifactKey: Guid(1788f74a562c23a4a806d33a5f1614cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 11 One Sided.prefab using Guid(1788f74a562c23a4a806d33a5f1614cc) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'd743fd578f0b51bd9be2b890d867a0de') in 0.019071 seconds
+  Import took 0.022422 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000218 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 18 One Sided.prefab
+  artifactKey: Guid(24307d04e36adf14cbd47c2612b3de7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 18 One Sided.prefab using Guid(24307d04e36adf14cbd47c2612b3de7d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '88bce1bea6e21e598934057af0836ca5') in 0.019511 seconds
+  Import took 0.022466 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000246 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 4.prefab
+  artifactKey: Guid(4da570c502021f54da11d2e4e2aaaf17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 4.prefab using Guid(4da570c502021f54da11d2e4e2aaaf17) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c9640b4ed94edf14977d5903e91acb53') in 0.018926 seconds
+  Import took 0.022152 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000233 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 20.prefab
+  artifactKey: Guid(3644eed62238ac448a5d0aa1d05ffa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 20.prefab using Guid(3644eed62238ac448a5d0aa1d05ffa57) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0344a46de085e7f19c500861a254f59e') in 0.022973 seconds
+  Import took 0.025981 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000278 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 14 One Sided.prefab
+  artifactKey: Guid(48a8424a4dc9c8e45b2c36d498d3b4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 14 One Sided.prefab using Guid(48a8424a4dc9c8e45b2c36d498d3b4b9) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'beb80b5c1f3c8b7c14544bfb153737db') in 0.019292 seconds
+  Import took 0.021994 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000235 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 4 One Sided.prefab
+  artifactKey: Guid(d3ac6be58ed17034daddfc20c9157f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 4 One Sided.prefab using Guid(d3ac6be58ed17034daddfc20c9157f4f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a0d21f143c075069ea1284217f0739bd') in 0.018759 seconds
+  Import took 0.021866 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000230 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 13.prefab
+  artifactKey: Guid(60c3310d728c71c4d9b347b747068488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 13.prefab using Guid(60c3310d728c71c4d9b347b747068488) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'f055ded5b789e13bc5f198931a09eeae') in 0.019773 seconds
+  Import took 0.023116 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000231 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 2.prefab
+  artifactKey: Guid(92b9dc69df6d54045ac4c5929235faeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 2.prefab using Guid(92b9dc69df6d54045ac4c5929235faeb) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '562eda9bb734964028264ba19c29fa24') in 0.018365 seconds
+  Import took 0.021498 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000312 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 6.prefab
+  artifactKey: Guid(d05947ed449906d48b6c13a1a38fafc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 6.prefab using Guid(d05947ed449906d48b6c13a1a38fafc6) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'efadb31c176a4be335de11375fe0f6ea') in 0.019899 seconds
+  Import took 0.023360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000321 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 12 One Sided.prefab
+  artifactKey: Guid(d22a13d412c7e174282729c232d0292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 12 One Sided.prefab using Guid(d22a13d412c7e174282729c232d0292b) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'e7cb95de7a8f65e4c6c427e458ff6673') in 0.018736 seconds
+  Import took 0.022034 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000259 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 18.prefab
+  artifactKey: Guid(2210aa0d8aa51224ea23d701cbf28d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 18.prefab using Guid(2210aa0d8aa51224ea23d701cbf28d5f) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '17729fbbefe3039fdb81bd6e0adc202b') in 0.019600 seconds
+  Import took 0.022547 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000261 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 12.prefab
+  artifactKey: Guid(e386dc0eac66ed9418b52d4e61d47f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 12.prefab using Guid(e386dc0eac66ed9418b52d4e61d47f58) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4a64059e658fcebc122e5054d832cc5d') in 0.020755 seconds
+  Import took 0.024101 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000236 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 19.prefab
+  artifactKey: Guid(86fc7ed81a72d4145b85c2d3268ba88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 19.prefab using Guid(86fc7ed81a72d4145b85c2d3268ba88a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9505e3efeaf908a6ccd578f63be167ab') in 0.020419 seconds
+  Import took 0.023928 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000290 seconds.
+  path: Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 1.prefab
+  artifactKey: Guid(3938407b3ec25084891253dd04c7dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Prefabs/Blocks And Bricks Prefabs/Blocks And Bricks 1.prefab using Guid(3938407b3ec25084891253dd04c7dc39) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'ee1d19a1b1713558546e343f91853e29') in 0.019908 seconds
+  Import took 0.023176 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 60.544992 seconds.
+  path: Assets/Script/GameManager.cs
+  artifactKey: Guid(d0476994e644ae340bf79c485519a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/GameManager.cs using Guid(d0476994e644ae340bf79c485519a336) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b2431ecf281b2ae05351a0d5c563bcaf') in 0.022936 seconds
+  Import took 0.026124 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 203.927929 seconds.
+  path: Assets/Script/PlayerController.cs
+  artifactKey: Guid(494bc4580cd35ae4c89515a02a491129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PlayerController.cs using Guid(494bc4580cd35ae4c89515a02a491129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4822b83babcf204c8063945e945430c') in 0.005689 seconds
+  Import took 0.008348 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.012414 seconds.
+  path: Assets/Script/PlayerController.cs
+  artifactKey: Guid(494bc4580cd35ae4c89515a02a491129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PlayerController.cs using Guid(494bc4580cd35ae4c89515a02a491129) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a4822b83babcf204c8063945e945430c') in 0.003911 seconds
+  Import took 0.006607 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011182 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.50 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.974 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 144.7 MB.
+
+Unloading 15 unused Assets to reduce memory usage. Loaded Objects now: 1961.
+Total: 1.957000 ms (FindLiveObjects: 0.195700 ms CreateObjectMapping: 0.034300 ms MarkObjects: 1.689700 ms  DeleteObjects: 0.036000 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 93.248443 seconds.
+  path: Assets/Script/Packet
+  artifactKey: Guid(e63ca9eef49cfb74ebae4bd3eacfb7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Packet using Guid(e63ca9eef49cfb74ebae4bd3eacfb7fd) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '4192c3bfdb0715643c727ad102c3e01b') in 0.008207 seconds
+  Import took 0.011065 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012521 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.003 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.6 MB.
+System memory in use after: 144.7 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1964.
+Total: 2.456900 ms (FindLiveObjects: 0.299300 ms CreateObjectMapping: 0.045800 ms MarkObjects: 2.084100 ms  DeleteObjects: 0.026400 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 1830.055949 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '16ec61b28ec37ee8e04e90202670601a') in 0.071532 seconds
+  Import took 0.075820 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 4.925855 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc77de5b67980b576d34396e862d26c5') in 0.019130 seconds
+  Import took 0.023356 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.006805 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fc77de5b67980b576d34396e862d26c5') in 0.021520 seconds
+  Import took 0.025008 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.551230 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431ff60a5b027fc5d2ac334eb6d3c31f') in 0.019864 seconds
+  Import took 0.026360 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.003093 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '431ff60a5b027fc5d2ac334eb6d3c31f') in 0.020924 seconds
+  Import took 0.024071 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.508652 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a18d1ba8d8da3ca5f6780f18329544a5') in 0.018173 seconds
+  Import took 0.021470 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012128 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.87 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.159 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1968.
+Total: 2.700200 ms (FindLiveObjects: 0.217500 ms CreateObjectMapping: 0.034000 ms MarkObjects: 2.429600 ms  DeleteObjects: 0.017400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010795 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.52 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.973 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.54 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1971.
+Total: 1.820100 ms (FindLiveObjects: 0.214700 ms CreateObjectMapping: 0.036200 ms MarkObjects: 1.533900 ms  DeleteObjects: 0.034100 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011248 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.287 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.74 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1974.
+Total: 3.295300 ms (FindLiveObjects: 0.309400 ms CreateObjectMapping: 0.048800 ms MarkObjects: 2.913100 ms  DeleteObjects: 0.022800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012652 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.65 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.236 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.79 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1977.
+Total: 4.322600 ms (FindLiveObjects: 0.541700 ms CreateObjectMapping: 0.035500 ms MarkObjects: 3.715000 ms  DeleteObjects: 0.028800 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 631.267360 seconds.
+  path: Assets/Script/Item.cs
+  artifactKey: Guid(f9c58bfa84d787f40a0034ef16cc5ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/Item.cs using Guid(f9c58bfa84d787f40a0034ef16cc5ac4) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'b6557be7cd00ddff66c10e013b91d3d9') in 0.006429 seconds
+  Import took 0.009322 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012658 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.66 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.374 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1980.
+Total: 3.777700 ms (FindLiveObjects: 0.381000 ms CreateObjectMapping: 0.059200 ms MarkObjects: 3.306700 ms  DeleteObjects: 0.029600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.012387 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.67 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.278 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.88 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1983.
+Total: 3.738300 ms (FindLiveObjects: 0.542500 ms CreateObjectMapping: 0.063400 ms MarkObjects: 3.109600 ms  DeleteObjects: 0.021200 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 2257.033102 seconds.
+  path: ProjectSettings/TagManager.asset
+  artifactKey: Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing ProjectSettings/TagManager.asset using Guid(00000000000000003000000000000000) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '74f7ef8d8503f787583690e40bc3635b') in 0.020915 seconds
+  Import took 0.024751 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 9.744895 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1f4f11120b8f6f64038fee383979b993') in 0.192586 seconds
+  Import took 0.197249 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 2134.924198 seconds.
+  path: Assets/Cartoon Temple Building Kit/Materials/Cartoon Templ Builder Kit.mat
+  artifactKey: Guid(112495ee01e1b834a89c654405f9be48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Materials/Cartoon Templ Builder Kit.mat using Guid(112495ee01e1b834a89c654405f9be48) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '046870741578d46fd0e47e38e0f1b37d') in 0.088735 seconds
+  Import took 0.094337 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 7.301756 seconds.
+  path: Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit Emission.png
+  artifactKey: Guid(5e741ca1f4b810b43a4d2e4de72df402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit Emission.png using Guid(5e741ca1f4b810b43a4d2e4de72df402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3a15053324846f565925a49cc7ad44') in 0.022014 seconds
+  Import took 0.025905 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000365 seconds.
+  path: Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit.png
+  artifactKey: Guid(8061fbc55aacaaa45b49fdd8e721baa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit.png using Guid(8061fbc55aacaaa45b49fdd8e721baa5) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '99eab7cbd6f77df4ad1723cd1535bb1c') in 0.023364 seconds
+  Import took 0.026674 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.000319 seconds.
+  path: Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit Emission.png
+  artifactKey: Guid(5e741ca1f4b810b43a4d2e4de72df402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Cartoon Temple Building Kit/Materials/Textures/Cartoon Temple Builder Kit Emission.png using Guid(5e741ca1f4b810b43a4d2e4de72df402) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'eb3a15053324846f565925a49cc7ad44') in 0.016808 seconds
+  Import took 0.020184 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 82.006532 seconds.
+  path: Assets/TextMesh Pro
+  artifactKey: Guid(9e1ac8f8f8e5b5d49881b266b3ab808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/TextMesh Pro using Guid(9e1ac8f8f8e5b5d49881b266b3ab808d) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'c6fc5b95dc51b08a1955d1aa1632ee48') in 0.005895 seconds
+  Import took 0.009357 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 87.831397 seconds.
+  path: Assets/Script/New Material.mat
+  artifactKey: Guid(8b0de969afbb83b48b9efa0633a1adf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/New Material.mat using Guid(8b0de969afbb83b48b9efa0633a1adf8) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'a1309961324363a4ec255acc3a5827ca') in 0.015508 seconds
+  Import took 0.018769 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 53.263642 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '1702ef3ca6f08687a57701f721759384') in 0.015646 seconds
+  Import took 0.018868 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.017907 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.59 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.776 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 14 unused Assets to reduce memory usage. Loaded Objects now: 1987.
+Total: 2.449400 ms (FindLiveObjects: 0.259300 ms CreateObjectMapping: 0.034100 ms MarkObjects: 1.946400 ms  DeleteObjects: 0.207600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010344 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.086 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.82 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1990.
+Total: 2.513600 ms (FindLiveObjects: 0.367000 ms CreateObjectMapping: 0.054800 ms MarkObjects: 2.072700 ms  DeleteObjects: 0.017000 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010163 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.079 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.60 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1993.
+Total: 2.531600 ms (FindLiveObjects: 0.225300 ms CreateObjectMapping: 0.034300 ms MarkObjects: 2.254500 ms  DeleteObjects: 0.016300 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010635 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.55 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.53 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1996.
+Total: 2.646600 ms (FindLiveObjects: 0.304700 ms CreateObjectMapping: 0.048200 ms MarkObjects: 2.265700 ms  DeleteObjects: 0.026600 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010246 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.012 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.58 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1440 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.7 MB.
+System memory in use after: 144.8 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 1999.
+Total: 2.662300 ms (FindLiveObjects: 0.277200 ms CreateObjectMapping: 0.046400 ms MarkObjects: 2.318000 ms  DeleteObjects: 0.019700 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 12260.164259 seconds.
+  path: Assets/Script/PuzzleItem.cs
+  artifactKey: Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PuzzleItem.cs using Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2d7d3613c2428a4b853455fe3d6962') in 0.008018 seconds
+  Import took 0.011609 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 0.001023 seconds.
+  path: Assets/Script/PuzzleItem.cs
+  artifactKey: Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PuzzleItem.cs using Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '0a2d7d3613c2428a4b853455fe3d6962') in 0.004621 seconds
+  Import took 0.006891 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.010180 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.51 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  0.976 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.80 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2003.
+Total: 2.709700 ms (FindLiveObjects: 0.261700 ms CreateObjectMapping: 0.038700 ms MarkObjects: 2.380300 ms  DeleteObjects: 0.027400 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.011042 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.57 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.032 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.62 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2006.
+Total: 1.966300 ms (FindLiveObjects: 0.210800 ms CreateObjectMapping: 0.034800 ms MarkObjects: 1.701300 ms  DeleteObjects: 0.018300 ms)
+
+========================================================================
+Received Import Request.
+  Time since last request: 102.885552 seconds.
+  path: Assets/Script/PuzzleItem.cs
+  artifactKey: Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/Script/PuzzleItem.cs using Guid(f104fa5447f442e44afe237ec860c6e0) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '7232e938be8955e43d91ed6caa08118e') in 0.008210 seconds
+  Import took 0.011453 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 12.480309 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: 'fd61e0ac3f8af50a24c23734886f3695') in 0.079190 seconds
+  Import took 0.082458 seconds .
+
+========================================================================
+Received Import Request.
+  Time since last request: 59.715281 seconds.
+  path: Assets/EXPrefabs/Puzzle Cube.prefab
+  artifactKey: Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)
+Start importing Assets/EXPrefabs/Puzzle Cube.prefab using Guid(cb3ce5e7b993f0f42925d696bcfeec6a) Importer(815301076,1909f56bfc062723c751e8b465ee728b)  -> (artifact id: '9a0163c2a8b476f65d5596133c7ff925') in 0.011906 seconds
+  Import took 0.015755 seconds .
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009216 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.028 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.83 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2010.
+Total: 2.117300 ms (FindLiveObjects: 0.198100 ms CreateObjectMapping: 0.034700 ms MarkObjects: 1.864600 ms  DeleteObjects: 0.018800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009588 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.61 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.015 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.56 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2013.
+Total: 1.906000 ms (FindLiveObjects: 0.229100 ms CreateObjectMapping: 0.034900 ms MarkObjects: 1.624000 ms  DeleteObjects: 0.016800 ms)
+
+========================================================================
+Received Prepare
+Registering precompiled user dll's ...
+Registered in 0.009955 seconds.
+Begin MonoManager ReloadAssembly
+Native extension for WindowsStandalone target not found
+Refreshing native plugins compatible for Editor in 0.97 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Invoked RoslynAnalysisRunner static constructor.
+RoslynAnalysisRunner will not be running.
+RoslynAnalysisRunner has terminated.
+Mono: successfully reloaded assembly
+- Completed reload, in  1.035 seconds
+Platform modules already initialized, skipping
+Refreshing native plugins compatible for Editor in 0.68 ms, found 2 plugins.
+Preloading 0 native plugins for Editor in 0.00 ms.
+Unloading 1441 Unused Serialized files (Serialized files now loaded: 0)
+System memory in use before: 144.8 MB.
+System memory in use after: 144.9 MB.
+
+Unloading 13 unused Assets to reduce memory usage. Loaded Objects now: 2016.
+Total: 3.086900 ms (FindLiveObjects: 0.449800 ms CreateObjectMapping: 0.050100 ms MarkObjects: 2.559000 ms  DeleteObjects: 0.026200 ms)
+
+AssetImportWorkerClient::OnTransportError - code=2 error=End of file
